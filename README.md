@@ -6,17 +6,17 @@ This is a simple, informative, and responsive static website that provides compr
 ---
 
 # 🔍 Features
-🏠 Home Page: Overview of COVID-19, its origins, spread, and the different waves.
+**🏠 Home Page:** Overview of COVID-19, its origins, spread, and the different waves.
 
-😷 Symptoms Page: Lists primary and secondary symptoms with severity breakdowns.
+**😷 Symptoms Page:** Lists primary and secondary symptoms with severity breakdowns.
 
-🛡 Precautions Page: Details protective measures, sanitation tips, and social guidelines.
+**🛡 Precautions Page:** Details protective measures, sanitation tips, and social guidelines.
 
-🧪 Covid Test Page: Explains different types of COVID tests and when to get tested.
+**🧪 Covid Test Page:** Explains different types of COVID tests and when to get tested.
 
-💉 Covid Info Page: Provides links to vaccine centers and live updates via Google Maps.
+**💉 Covid Info Page:** Provides links to vaccine centers and live updates via Google Maps.
 
-🎨 Custom CSS: Styled using a fully customized CSS file with gradients, shadows, and responsive design elements.
+**🎨 Custom CSS:** Styled using a fully customized CSS file with gradients, shadows, and responsive design elements.
 
 ---
 
@@ -50,7 +50,7 @@ covid-awareness-website/
 
 ## 📦 How to Run
 
-1. **Clone the Repository**
+1. Clone the Repository
    ```bash
    git clone https://github.com/priyanka-bh2/covid-awareness-website.git
    cd covid-awareness-website
