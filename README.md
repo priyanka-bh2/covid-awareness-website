@@ -1,10 +1,13 @@
 # COVID-19 Awareness Website 🌍🦠
+**A responsive, informative static website designed to educate users about COVID-19, its symptoms, safety precautions, testing guidelines, and vaccination information.**
+
 This is a simple, informative, and responsive static website that provides comprehensive information about COVID-19. It includes pages for symptoms, testing guidelines, safety precautions, vaccine info, and live updates via Google Maps. The site is designed as a public health initiative, to raise awareness and educate users about how to stay safe during the pandemic.
 
 ---
 
 # 🔍 Features
 🏠 Home Page: Overview of COVID-19, its origins, spread, and the different waves.
+
 😷 Symptoms Page: Lists primary and secondary symptoms with severity breakdowns.
 
 🛡 Precautions Page: Details protective measures, sanitation tips, and social guidelines.
